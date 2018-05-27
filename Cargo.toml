@@ -1,0 +1,6 @@
+[package]
+name = "rustbridgeParis"
+version = "0.1.0"
+authors = ["lerina (J-Y) RAZAFY <icode.lerina@gmail.com>"]
+
+[dependencies]
